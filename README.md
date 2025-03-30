@@ -1,5 +1,6 @@
 # -theremin-en-funcionamiento
 tarea de robotica de edgardo alejandro
+
 El theremin normalmente usa sensores de capacitancia o distancia (ultrasónicos, infrarrojos, etc.) para detectar el movimiento de la mano. Aquí hay algunas opciones que podrías considerar:
 
 Sensor ultrasónico (HC-SR04): Usa ondas de sonido para medir la distancia. Funciona bien para detectar la posición de la mano.
