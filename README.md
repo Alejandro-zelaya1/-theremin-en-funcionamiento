@@ -13,6 +13,9 @@ LIDAR (VL53L0X): Usa láser para medir la distancia con alta precisión.
 
 Acelerómetro (MPU6050): Puede medir el movimiento y la inclinación de la mano en lugar de la distancia.
 
+
+
+
 acontinuacion el codigo que use para su funciona miento 
 
 #define TRIG_PIN 9
